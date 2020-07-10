@@ -1,8 +1,10 @@
-### Hi there 👋
+### Salut toi 👋
 
-**HaCoBa/HaCoBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ancienne secrétaire, ancienne militaire, je me suis reconvertie dans le domaine du développement web car je cherchais un métier à la fois créatif et technique.
 
-Here are some ideas to get you started:
+:seedling: Après un premier cursus dev web PHP/WordPress au sein de [O'clock](https://oclock.io/), la première école de formation au numérique en 100% télétravail, j'ai effectué un stage de 5 mois chez [Akka Technologies](https://www.akka-technologies.com/france/?lang=fr) pendant lequel j'ai découvert pour le langage JavaScript.
+
+:muscle: Forte de cette nouvelle passion, je suis repartie en cursus Fullstack JS, toujours au sein d'O'clock (le télétravail a tellement d'avantage) et je suis donc en pleine formation actuellement, dans le but d'acquérir des compétences poussées en JavaScript et React.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
