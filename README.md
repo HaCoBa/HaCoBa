@@ -17,7 +17,7 @@
 
 :loudspeaker: Fun Fact
 - Je raconte ma reconversion en BD sur mon compte Instagram (humour, autodérision et tranches de vie au programme)
-- Je suis Potterhead depuis plus de 20 ans, donc si je peux caser une référence Harry Poitter par jour, je suis contente.
+- Je suis Potterhead depuis plus de 20 ans, donc si je peux caser une référence Harry Potter par jour, je suis contente (suffit de regarder les projets pour le voir de toute façon).
 - Ma chienne noire s'appelle Sirius (Sirius Black, animagus de chien noir, vous l'avez ? :joy:)
 
 :mailbox: Vous pouvez me retrouver sur [Twitter](https://twitter.com/HaCoBa_Laure) ou [Instagram](https://www.instagram.com/hacoba_laure/) ou [LinkedIn](https://fr.linkedin.com/in/laure-lamande)
