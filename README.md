@@ -9,7 +9,7 @@
 :books: O'clock, ce ne sont pas que des compétences techniques. Au sein de cette école, en plus des classiques apprentissages HTML, CSS, JavaScript, PHP, MySQL, NodeJs, PostGres, j'en passe et des meilleures :tongue: on apprend aussi tout une philosophie et de bonnes pratiques, ainsi que la gestion de projet, les méthodes Agile, MVP, MCD,MLD et tout plein d'acronymes encore.
 
 :telescope: En ce moment, en plus des challenges/ateliers de ma formation, je travaille sur des petits projets persos :  
-- :pushpin: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  
+- :pushpin: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  (finiiii)
 - :pushpin: Un jeu de ShiFuMi selon les règles de Sheldon Cooper dans The Big Bang Theory (code en cours)  
 - :pushpin: Une boutique factice regroupant tous les magasins du Chemin de Travers (mise en place du projet et de la BDD en cours)  
 - :pushpin: Application web de géolocalisation d'évènements/boutiques/membres de la communauté Potterhead (Cahier des charge en cours)  
