@@ -10,13 +10,12 @@
 
 :telescope: ma formation est terminée, en attent de passer le Titre Pro et la certification Opqust, je travaille sur des petits projets persos :
 - :pushpin: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  (finiiii) ;
-- :pushpin: Un jeu de ShiFuMi selon les règles de Sheldon Cooper dans The Big Bang Theory (code en cours) ;
+- :pushpin: Un petit RPG en 2D où il faut coder le déplacement dans une fenêtre de script ! 
 
 A venir, dans un futur plus ou moins proche :
 - :pushpin: Une boutique factice regroupant tous les magasins du Chemin de Travers (ébauche de projet) ;
 - :pushpin: Application web de géolocalisation d'évènements/boutiques/membres de la communauté Potterhead (ébauche de projet) ;
 - :pushpin: Application web de géolocalisation permettant de découvrir le patrimoine français d'une autre façon (ébauche de projet) ;
-- :pushpin: SPECIAL CONFINEMENT - Application web de vente locale à l'intention des petits commerçants de centre-ville afin de permettre l'achat en ligne et le retrait directement à la boutique ;
 - :pushpin: Bot Twitter avec accès à une BDD (recherche d'informations et de tutos) ;
 
 :loudspeaker: Fun Fact
