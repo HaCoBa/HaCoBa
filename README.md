@@ -11,12 +11,13 @@
 :telescope: ma formation est terminée, en attent de passer le Titre Pro et la certification Opqust, je travaille sur des petits projets persos :
 - :pushpin: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  (fini) ;
 - :pushpin: Un petit RPG en 2D où il faut coder le déplacement dans une fenêtre de script ! [RPG-decomposer](https://hacoba.github.io/rpg-decomposer/)  (fini) ;
+- :pushpin: Bot Twitter avec accès à une BDD (en cours de réalisation) ;
+- :pushpin: Plateforme de blog BDs avec @MariannePiquetNowak (Cahier des charges en cours)
 
 A venir, dans un futur plus ou moins proche :
 - :pushpin: Une boutique factice regroupant tous les magasins du Chemin de Travers (ébauche de projet) ;
 - :pushpin: Application web de géolocalisation d'évènements/boutiques/membres de la communauté Potterhead (ébauche de projet) ;
 - :pushpin: Application web de géolocalisation permettant de découvrir le patrimoine français d'une autre façon (ébauche de projet) ;
-- :pushpin: Bot Twitter avec accès à une BDD (recherche d'informations et de tutos) ;
 
 :loudspeaker: Fun Fact
 - Je raconte ma reconversion en BD sur mon compte Instagram (humour, autodérision et tranches de vie au programme)
