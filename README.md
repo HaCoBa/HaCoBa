@@ -12,7 +12,7 @@
 - :pushpin: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  (fini) ;
 - :pushpin: Un petit RPG en 2D où il faut coder le déplacement dans une fenêtre de script ! [RPG-decomposer](https://hacoba.github.io/rpg-decomposer/)  (fini) ;
 - :pushpin: Bot Twitter avec accès à une BDD (en cours de réalisation) ;
-- :pushpin: Plateforme de blog BDs avec @MariannePiquetNowak (Cahier des charges en cours)
+- :pushpin: Plateforme de blog BDs avec [Marianne Piquet-Nowak](https://github.com/MariannePiquetNowak) (Cahier des charges en cours)
 
 A venir, dans un futur plus ou moins proche :
 - :pushpin: Une boutique factice regroupant tous les magasins du Chemin de Travers (ébauche de projet) ;
