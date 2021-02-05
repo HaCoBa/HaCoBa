@@ -9,16 +9,15 @@
 :books: O'clock, ce ne sont pas que des compétences techniques. Au sein de cette école, en plus des classiques apprentissages HTML, CSS, JavaScript, PHP, MySQL, NodeJs, PostGres, j'en passe et des meilleures :tongue: on apprend aussi tout une philosophie et de bonnes pratiques, ainsi que la gestion de projet, les méthodes Agile, MVP, MCD,MLD et tout plein d'acronymes encore.
 
 :telescope: En attendant de décrocher le Saint-Graal (à savoir un job), je travaille actuellement sur des petits projets persos :
+
 - Projets Finis :
   - :ok_hand: Un tableau de pixel-art avec css imprimable [Pixel-art-board](https://hacoba.github.io/pixel-art-board/)  (fini) ;
   - :ok_hand: Un petit RPG en 2D où il faut coder le déplacement dans une fenêtre de script ! [RPG-decomposer](https://hacoba.github.io/rpg-decomposer/)  (fini) ;
   - :ok_hand: Bot Twitter avec accès à une BDD, actuellement hébergé sur [Heroku](https://heroku.com) et visible sur [@ExcuseBidon](https://twitter.com/ExcuseBidon) ;
 
-
 -Projets En Cours :
   - :muscle: Plateforme de blog BDs avec [Marianne Piquet-Nowak](https://github.com/MariannePiquetNowak) (Cahier des charges en cours) ;
   - :muscle: Application web de géolocalisation permettant de découvrir le patrimoine français d'une autre façon (cahier des charges en cours) ;
-
 
 - Projets En Attente :
   - :eyes: Une boutique factice regroupant tous les magasins du Chemin de Travers (ébauche de projet) ;
