@@ -14,9 +14,11 @@
   - :ok_hand: Un petit RPG en 2D où il faut coder le déplacement dans une fenêtre de script ! [RPG-decomposer](https://hacoba.github.io/rpg-decomposer/)  (fini) ;
   - :ok_hand: Bot Twitter avec accès à une BDD, actuellement hébergé sur [Heroku](https://heroku.com) et visible sur [@ExcuseBidon](https://twitter.com/ExcuseBidon) ;
 
+
 -Projets En Cours :
   - :muscle: Plateforme de blog BDs avec [Marianne Piquet-Nowak](https://github.com/MariannePiquetNowak) (Cahier des charges en cours) ;
   - :muscle: Application web de géolocalisation permettant de découvrir le patrimoine français d'une autre façon (cahier des charges en cours) ;
+
 
 - Projets En Attente :
   - :eyes: Une boutique factice regroupant tous les magasins du Chemin de Travers (ébauche de projet) ;
